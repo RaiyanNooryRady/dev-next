@@ -1,8 +1,8 @@
 import React from "react";
-export default function Register(){
+export default function Contact(){
     return (
         <div>
-            <h1>Register</h1>
+            <h1>Contact</h1>
         </div>
     )
 }
