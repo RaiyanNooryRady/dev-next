@@ -1,3 +1,5 @@
+import React from 'react';
+
 export default async function DocsSlug({ params }: { params: { slug?: string[] } }) {
     const { slug } = await params;
 
